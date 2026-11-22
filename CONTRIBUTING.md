@@ -1,8 +1,8 @@
-##Contributing
+## Contributing
 
 This file contains general guidelines for how to contribute to HEMA Ratings projects. Each project may contain additional rules or guidelines.
 
-##General guidelines
+## General guidelines
 
 Keep pull requests small and self-contained, with commit messages describing not only the "what", but also the "why" of any proposed changes.
 
