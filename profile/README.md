@@ -21,12 +21,15 @@ A tool for tournament organizers to submit competition results to HEMA Ratings.
 
 - **Website:** [submit.hemaratings.com](https://submit.hemaratings.com)
 
-## Get involved
+## Contributing
 
 Interested in contributing?
 
 - Explore our public repositories.
 - Report bugs or suggest improvements through GitHub Issues.
-- Check individual repositories for contribution guidelines.
 
-Whether you're a developer, tournament organizer, or HEMA practitioner, feedback and contributions are welcome.
+We maintain shared contribution guidelines across all HEMA Ratings projects.
+
+**Please read our [Contribution Guidelines](https://github.com/HEMA-Ratings/.github/blob/main/CONTRIBUTING.md) before contributing.**
+
+Whether you're a developer, tournament organizer, HEMA practitioner, or a fellow developer of HEMA software, feedback and contributions are welcome.
